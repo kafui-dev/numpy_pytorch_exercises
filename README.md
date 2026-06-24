@@ -1,0 +1,2 @@
+# Numpy and Pytorch exercicses
+Being familiar with numpy and pytorch by working through the [100 numpy exercicses](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) using numpy and pytorch.
